@@ -27,12 +27,6 @@ Key questions explored in this project include:
 ```text
 Street-Tree-Health-Prediction/
 │
-├── data/
-│   └── Tree_census.csv
-│
-├── notebooks/
-│   └── code.ipynb
-│
 ├── src/
 │   ├── __init__.py
 │   ├── config.py
